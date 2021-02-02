@@ -19,11 +19,17 @@
   "fanerlast":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
   
-  "lien": "https://www.google.ca"
+  "lien": "https://www.google.ca",
   
-  "appId1": "ca-app-pub-2206471189721315~4698054107"
-  "appId2": ""
-  "appId3": ""
+  "appId1": "ca-app-pub-2206471189721315~4698054107",
+  "appId2": "",
+  "appId3": "",
+  
+  
+  "publisherId1":"zaim publisher",
+  "publisherId2":"",
+  "publisherId3":"",
+
   
   
 
